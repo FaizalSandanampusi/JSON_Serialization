@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/JSON_Serialization/workflows/Python%20Tests/badge.svg?label=passingcolor=greentimestamp=1731426896)
+
 
 # JSON Serialization
 
